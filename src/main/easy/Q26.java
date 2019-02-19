@@ -1,7 +1,5 @@
 package main.easy;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
 
 public class Q26 {
